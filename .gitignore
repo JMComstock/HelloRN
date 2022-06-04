@@ -30,6 +30,9 @@ local.properties
 *.iml
 *.hprof
 
+debug/
+.keystroke
+
 # node.js
 #
 node_modules/
